@@ -49,6 +49,11 @@ Relay switches AC bulb → Light ON.
 Optional delay/reset → Light OFF after set time.
 Cycle repeats → Waits for next motion.
 
+Images:
+
+![LIGHT](images/proj_pcb.jpg)
+![LIGHT](images/circuit_diagram.jpg)
+
 Applications:
 Residential: Bedrooms, hallways, bathrooms, staircases.
 Assistive Tech: Elderly/disabled accessibility.
@@ -78,6 +83,29 @@ Affordable and easy to build.
 Educational for students and hobbyists.
 Assistive for elderly/disabled individuals.
 A strong foundation for future smart-home extensions.
+
+Future Scope:
+Ambient Light Integration: Add LDR-based sensing to ensure lights only activate when natural light is insufficient.
+Time-Based Control: Introduce programmable timers for scheduled ON/OFF cycles.
+Wireless Connectivity: Extend with Wi-Fi/Bluetooth modules for remote monitoring and control.
+Smart Dimming: Implement variable brightness control for energy optimization and comfort.
+IoT & Cloud Integration: Connect to smart home ecosystems for centralized automation.
+Scalable Deployment: Adapt design for multi-room or outdoor lighting systems.
+Hybrid Systems: Combine analog simplicity with microcontroller flexibility for advanced features.
+
+Skills Gained:
+Circuit Design & Simulation: Hands-on experience with schematic creation, breadboard prototyping, and PCB design.
+Sensor Interfacing: Practical knowledge of IR sensors, LDRs, and comparator calibration.
+Analog & Digital Logic: Application of CD4017 counters, LM358 comparators, and relay-transistor switching.
+Power Electronics: Understanding of AC/DC interfacing, relay protection, and flyback diode usage.
+Troubleshooting & Optimization: Adjusting sensitivity, calibrating thresholds, and ensuring stable operation.
+Documentation & Presentation: Preparing technical reports, flowcharts, block diagrams, and GitHub-ready content.
+Sustainability Awareness: Linking automation projects to energy efficiency and eco-friendly practices.
+
+Team V VAISHNAVI
+Institution: Vellore Institute of Technology (VIT)
+
+Support If you found this project inspiring, consider giving it a star on GitHub to support further development and encourage open-source innovation.
 
 References:
 IJERT (2020) – Automatic Light Control System Using LDR and Relay.
