@@ -84,6 +84,12 @@ Educational for students and hobbyists.
 Assistive for elderly/disabled individuals.
 A strong foundation for future smart-home extensions.
 
+References:
+IJERT (2020) – Automatic Light Control System Using LDR and Relay.
+IJARCCE (2016) – Design & Implementation of Automatic Room Light Controller.
+JETIR (2024) – Automatic Room Light Controller.
+IJARSCT (2023) – Automatic Lights Using PIR Sensor.
+
 Future Scope:
 Ambient Light Integration: Add LDR-based sensing to ensure lights only activate when natural light is insufficient.
 Time-Based Control: Introduce programmable timers for scheduled ON/OFF cycles.
@@ -106,10 +112,4 @@ Team V VAISHNAVI
 Institution: Vellore Institute of Technology (VIT)
 
 Support If you found this project inspiring, consider giving it a star on GitHub to support further development and encourage open-source innovation.
-
-References:
-IJERT (2020) – Automatic Light Control System Using LDR and Relay.
-IJARCCE (2016) – Design & Implementation of Automatic Room Light Controller.
-JETIR (2024) – Automatic Room Light Controller.
-IJARSCT (2023) – Automatic Lights Using PIR Sensor.
 
